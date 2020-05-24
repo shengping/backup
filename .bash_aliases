@@ -6,6 +6,9 @@ alias vpi='vim +PluginInstall +qall'
 alias vpc='vim +PluginClean +qall'
 alias vpu='vim +PluginUpdate +qall'
 alias cdc='cd ~/git_ws/ctags'
+alias untar='tar -xvzf'
+alias tarc='tar cvzf'
+
 
 #alias for git
 alias gpull='git pull origin master'

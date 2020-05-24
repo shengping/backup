@@ -20,6 +20,7 @@ Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
 Plugin 'shengping/vim-systemverilog'
 Plugin 'mtdl9/vim-log-highlighting'
+Plugin 'thinca/vim-visualstar'
 call vundle#end()            " required
 
 filetype plugin indent on    " required
